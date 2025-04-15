@@ -1,0 +1,144 @@
+.logo {
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header {
+    display: flex;
+    background-color: white;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+.middle a {
+    padding: 8px;
+    color: black;
+}
+
+.reserve {
+    background-color: brown;
+    color: white;
+    padding: 15px;
+    border-radius: 4px;
+}
+
+img {
+    justify-items: left;
+}
+
+.welcome {
+    display: flex;
+    justify-content: space-between;
+    height: 500px;
+    width: auto;
+    background-image: url(Restaurants_Images/flat-lay-composition-mexican-food-with-copyspace.jpg);
+    background-size: 100%;
+    opacity: 0.9;
+}
+.content {
+    padding: 20px;
+    font-size: 34px;
+    margin-top: 200px;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.container {
+    display: flex;
+    margin-top:70px;
+    margin-bottom: 30px;
+    justify-content: space-between;
+}
+
+.container a {
+    color: rgba(166, 185, 202, 0.774);
+    margin-top: 15px;
+    display: flex;
+}
+
+.together {
+    display: flex;
+    flex-direction: row;
+}
+
+.img-description {
+    display: flex;
+    flex-direction: row;   
+}
+
+.container1 {
+    width: 400px;
+    padding-left: 10px;
+    text-align: justify;
+    display: flex;
+    gap: 20px;
+    align-content: center;
+    align-items: center;
+}
+
+.display {
+    background-color: rgb(250, 248, 248);
+    border-radius: none;
+    width: 400px;
+    border-radius: 10px;
+    border: 2px black;
+}
+.round {
+    border-radius: 50%;
+    object-fit: cover;
+    padding-left: 10px;
+}
+
+.okay {
+    padding-left: 10px;
+}
+
+.display1 {
+    background-color: rgb(250, 248, 248);
+    width: 400px;
+    border-radius: 10px;
+}
+.round1 {
+    border-radius: 50%;
+    object-fit: cover;
+    padding-left: 10px;
+}
+
+.okay1 {
+    padding-left: 10px;
+}
+
+.display2 {
+    background-color: rgb(250, 248, 248);
+    border-radius: 10px;
+    width: 400px;
+}
+.round2 {
+    border-radius: 50%;
+    object-fit: cover;
+    padding-left: 10px;
+}
+.okay2 {
+    padding-left: 10px;
+}
+
+.display3 {
+    background-color: rgb(250, 248, 248);
+    border-radius: 10px;
+    width: 400px;
+}
+.round3 {
+    border-radius: 50%;
+    object-fit: cover;
+    padding-left: 10px;
+}
+.okay3 {
+    padding-left: 10px;
+}

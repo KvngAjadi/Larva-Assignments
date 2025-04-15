@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(245, 207, 81);
+}
+
+.container {
+    height: 300px;
+    width: 300px;
+    justify-content: center;
+}
+.display {
+    background-color: white;
+    height: 550px;
+    width: 380px;
+    margin-top: 60px;
+    border-radius: 10px;
+}
+img {
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+.left {
+    justify-items: left;
+    padding-left: 22px;
+}
+
+.display h2 {
+    color: rgb(245, 207, 81);
+}
+
+.display h5 {
+    background-color: rgb(245, 207, 81);
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border-radius: 2px;
+}
+
+.display p {
+    text-align: left;
+}
